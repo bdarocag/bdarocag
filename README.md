@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bdarocag.bdarocag&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a Data Scientist 💡 with strong statistical background and 4+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems ✨. Excellent in Python, R and SQL and passionate about supervised learning and customer segmentation 👨. I love to explore new technologies and leverage them to solve real-life problems 🤓.
+I'm a graduate in Biostatistics Master's Degree 🎓 from Manuela Beltrán University 🏛. I'm a Data Scientist 💡 with strong statistical background and 4+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems ✨. Excellent in Python, R and SQL and passionate about supervised learning and customer segmentation 👨. I love to explore new technologies and leverage them to solve real-life problems 🤓.
 
 Joined Github **4** years ago.
 
