@@ -28,7 +28,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently learning PyTorch Framework.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bdarocag).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/bdarocag/bdarocag/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
 - 📫 &nbsp; How to reach me: bdarocag@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/bdarocag/bdarocag/blob/master/resume.pdf).
 
