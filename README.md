@@ -27,7 +27,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Python, R, SQL, <br /> PostgreSQL, Machine Learning, PyTorch, etc.
 - 🚀 &nbsp; I’m currently learning PyTorch Framework.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bdarocag).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/bdarocag/bdarocag/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/bdarocag/bdarocag/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
 - 📫 &nbsp; How to reach me: bdarocag@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/bdarocag/bdarocag/blob/master/resume.pdf).
@@ -43,7 +43,7 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.png" alt="pytorch"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/pytorch/pytorch/refs/heads/main/docs/source/_static/img/pytorch-logo-flame.png" alt="pytorch"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
@@ -72,8 +72,9 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>OS:</b> Windows 11</li>
+	    <li><b>Laptop: </b> HP Elitebook (i7)</li>
+	    <li><b>PC: </b> Ryzen 5 3600 - RTX3060Ti - 16GB (i7)</li>	
   	    <li><b>Browser: </b> Chrome Browser</li>
 	    <li><b>Terminal: </b> Power Shell</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
